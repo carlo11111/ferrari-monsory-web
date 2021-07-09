@@ -1,0 +1,26 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#header-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../images/dfab6bd364b39cd820b3ba2146ae4c84.jpg);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
+
+#parallax-section {
+    background-image: url(../images/dfab6bd364b39cd820b3ba2146ae4c84.jpg);
+    background-position: right bottom;
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+#footer-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../images/MANSORY-Ferrari-812-GTS-02.jpg
+    );
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
